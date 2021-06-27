@@ -1,0 +1,5 @@
+title: Life                     # 网站标题
+url: https://xuyi.zone          # 网站域名
+baseurl: /                      # 站点路径
+description: Xuyi.zone          # 网站描述
+img: /img                       # 图片路径
