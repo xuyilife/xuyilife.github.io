@@ -16,7 +16,8 @@
 {% for page in site.pages %}
 <ul>
   {% if page.dir == "/she/" %}
-  <li> <a href="{{ page.url | relative_url }}">{{ page.title }}</a> </li>
+  {% assign title = page.name | split: ".md" | first %}
+  <li> <a href="{{ page.url | relative_url }}">{{ title }}</a> </li>
   {% endif %}
 </ul>
 {% endfor %}
@@ -26,7 +27,8 @@
 {% for page in site.pages %}
 <ul>
   {% if page.dir == "/he/" %}
-  <li> <a href="{{ page.url | relative_url }}">{{ page.title }}</a> </li>
+  {% assign title = page.name | split: ".md" | first %}
+  <li> <a href="{{ page.url | relative_url }}">{{ title }}</a> </li>
   {% endif %}
 </ul>
 {% endfor %}
