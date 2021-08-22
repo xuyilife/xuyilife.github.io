@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HE
+title: He
 ---
 
 <ul>

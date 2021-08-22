@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SHE
+title: She
 ---
 
 <ul>
