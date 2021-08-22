@@ -12,9 +12,12 @@ socials:
   url: https://github.com/xuyilife/xuyilife.github.io
 
 nav:
-- name: WE
+- name: HOME
   path: /
+- name: WE
+  path: /pages/we
 - name: SHE
-  path: /pages/she.html
+  path: /pages/she
 - name: HE
-  path: /pages/he.html
+  path: /pages/he
+

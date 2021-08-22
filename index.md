@@ -1,14 +1,10 @@
 ---
 layout: page
-title: WE
+title: HOME
 ---
 
-<ul>
-{% for page in site.pages %}
-  {% if page.dir == "/posts/we/" %}
-    <li> <a href="{{ page.url | relative_url }}">{{ page.title }}</a> </li>
-  {% endif %}
-{% endfor %}
-</ul>
+![she](https://z3.ax1x.com/2021/08/22/hpSPmR.jpg)
+
+这个网站用来记录徐仪 & 邓文丰的甜蜜生活。
 
 感情咨询、意见反馈请 [留言💬](https://github.com/xuyilife/xuyilife.github.io/issues/new)
