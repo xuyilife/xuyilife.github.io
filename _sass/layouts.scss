@@ -39,4 +39,8 @@
 	background-color: var(--content-bg);
 	padding: .5rem;
 	border-bottom: 1px solid var(--gray-200);
+	
+	& a {
+		font-size: var(--h3-font-size);
+	}
 }
