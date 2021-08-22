@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![she](https://z3.ax1x.com/2021/08/22/hpSPmR.jpg)
+![she](https://z3.ax1x.com/2021/08/22/hpUUFs.jpg)
 
 这个网站用来记录徐仪 & 邓文丰的甜蜜生活。
 
