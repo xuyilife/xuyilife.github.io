@@ -1,0 +1,42 @@
+// Default
+
+.container {
+  max-width: 38rem;
+  margin: 0 auto;
+}
+
+.footer {
+  text-align: center;
+  padding: 1rem 0;
+  min-height: 4rem; 
+  
+  & a {
+    color: var(--gray-600);
+    padding: .8rem;
+    text-decoration: none;
+    
+    &:hover {
+      color: var(--gray-900);
+    }
+  }
+}
+
+// Navigation
+
+.active {
+  color: var(--body-color);
+}
+
+// Page
+
+.page {
+	padding: 1rem;
+	background-color: var(--content-bg);
+}
+
+.page-nav {
+	text-align: center;
+	background-color: var(--content-bg);
+	padding: .5rem;
+	border-bottom: 1px solid var(--gray-200);
+}

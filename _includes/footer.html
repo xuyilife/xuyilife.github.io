@@ -1,0 +1,6 @@
+<footer class="footer">
+	{% for item in site.socials %}
+  <a href="{{ item.url }}" target="_blank"><i class="fab fa-{{ item.name }}" aria-hidden="true"></i></a>
+	{% endfor %}
+  <a href="mailto:{{ site.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+</footer>
