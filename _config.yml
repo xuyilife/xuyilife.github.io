@@ -1,6 +1,5 @@
 title: "Xuyi's Life"             # 网站标题
 url: https://xuyi.zone           # 网站域名
-baseurl: /                       # 根路径
 description: Her life in my eyes # 网站描述
 
 img: /assets/img                 # 图片路径
@@ -14,8 +13,8 @@ socials:
 
 nav:
 - name: WE
-  path: 
+  path: /
 - name: SHE
-  path: pages/she.html
+  path: /pages/she.html
 - name: HE
-  path: pages/he.html
+  path: /pages/he.html
