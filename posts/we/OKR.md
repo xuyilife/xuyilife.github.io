@@ -1,3 +1,8 @@
+---
+layout: post
+title: OKR🗓
+---
+
 OKR (Objectives and Key Results) 是目标与关键成果法，让两个人可以对目标进度进行追踪。
 
 - 晚上 11:30 点前上床休息
