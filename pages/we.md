@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WE
+title: We
 ---
 
 <ul>
