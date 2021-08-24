@@ -30,8 +30,9 @@
   --font-size: 16px;                            
   --line-height: 1.5;                          
   
-  --body-color: var(--gray-700);
   --body-bg: var(--gray-100);
+  --body-color: var(--gray-700);
+  // --body-bg: #F1EED9;
   
   --link-color: var(--blue);
   
@@ -52,7 +53,8 @@
   --spacer-2: calc(var(--spacer) * 1.5);
   --spacer-3: calc(var(--spacer) * 3);
 	
-  --content-bg: #fff;
+  // --content-bg: #F1EED9;
+  --content-bg: #FFF;
 }
 
 @media (min-width: 760px) {  // The unit of min-width must be px
