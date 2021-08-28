@@ -1,11 +1,11 @@
 ---
 layout: page
-title: He
+title: 月记
 ---
 
 <ul>
 {% for page in site.pages %}
-  {% if page.dir == "/posts/he/" %}
+  {% if page.dir == "/posts/timeline/" %}
     <li> <a href="{{ page.url | relative_url }}">{{ page.title }}</a> </li>
   {% endif %}
 {% endfor %}

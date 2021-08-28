@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 关于
 ---
 
 ![she](https://z3.ax1x.com/2021/08/22/hpUUFs.jpg)

@@ -12,14 +12,12 @@ socials:
   url: https://github.com/xuyilife/xuyilife.github.io
 
 nav:
-- name: Home
+- name: 关于
   path: /
-- name: We
-  path: /pages/we
-- name: She
-  path: /pages/she
-- name: He
-  path: /pages/he
+- name: 理论
+  path: /pages/theory
+- name: 月记
+  path: /pages/timeline
 
 defaults:
   - scope:
