@@ -21,3 +21,10 @@ nav:
 - name: He
   path: /pages/he
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
