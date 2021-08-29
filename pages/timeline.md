@@ -6,7 +6,7 @@ title: 月记
 # 2021
 
 <ul>
-{% for page in site.pages %}
+{% for page in site.pages reverse %}
   {% if page.dir == "/posts/timeline/2021/" %}
     <li> <a href="{{ page.url | relative_url }}">{{ page.title }}</a> </li>
   {% endif %}
